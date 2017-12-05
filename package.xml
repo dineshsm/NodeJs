@@ -19,6 +19,7 @@
     <types>
         <members>*</members>
         <name>StaticResource</name>
+        <name>Dins</name>
     </types>
     <version>36.0</version>
 </Package>
